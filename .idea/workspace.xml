@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1a58df-90d5-4573-bfa8-70c86d312d0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exampractice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exampractice/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exampractice/PhoneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/exampractice/images/apple-14-blue-pos1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/exampractice/images/google-pixel-6a-front-en.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/exampractice/images/iPhone14Pro-SpaceBlack-pos1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/exampractice/images/samsung-galaxy-s23-cream-front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/exampractice/phone-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/exampractice/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="aa1a58df-90d5-4573-bfa8-70c86d312d0f" name="Changes" comment="exam practice phone switcher" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,11 +69,23 @@
       <updated>1677686519037</updated>
       <workItem from="1677686521237" duration="1145000" />
       <workItem from="1677687784800" duration="488000" />
-      <workItem from="1677688289854" duration="1228000" />
+      <workItem from="1677688289854" duration="1588000" />
     </task>
+    <task id="LOCAL-00001" summary="exam practice phone switcher">
+      <created>1677689805988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677689805988</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exam practice phone switcher" />
+    <option name="LAST_COMMIT_MESSAGE" value="exam practice phone switcher" />
   </component>
 </project>
